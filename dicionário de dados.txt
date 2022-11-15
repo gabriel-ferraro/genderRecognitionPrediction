@@ -1,0 +1,25 @@
+1 - Acidez Fixa
+
+2 - Acidez Volátil
+
+3 - Ácido Cítrico
+
+4 - Açúcar Residual
+
+5 - Cloretos
+
+6 - Dióxido de Enxofre Livre
+
+7 - Total de Dióxido de Enxofre
+
+8 - Densidade
+
+9 - pH
+
+10 - Sulfatos
+
+11 - Álcool
+
+Variável de saída (com base em dados sensoriais):
+
+12 - Qualidade (pontuação entre 0 e 10)

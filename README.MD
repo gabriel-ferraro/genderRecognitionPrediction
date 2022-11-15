@@ -8,4 +8,4 @@ Turma: ES - Sexta
 
 Link para o Dataset - https://www.kaggle.com/datasets/uciml/red-wine-quality-cortez-et-al-2009/
 
-Dicionário de dados - 
+Dicionário de dados - [a relative link](./dicionário de dados.txt)
